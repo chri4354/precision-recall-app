@@ -1,0 +1,11 @@
+numpy>=2.3.3
+pandas>=2.3.3
+ipykernel>=6.30.1
+matplotlib>=3.10
+scikit-learn >=1.7.2
+requests
+shiny>=1.5.0
+Jinja2
+plotly
+nbformat>=4.2.0
+statsmodels
